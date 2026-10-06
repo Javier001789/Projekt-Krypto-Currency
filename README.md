@@ -3,16 +3,16 @@
 
 ## Podstawy
 
-* [x ] Utworzyć projekt React
-* [ ] Stworzyć strukturę strony
-* [ ] Stworzyć Header
-* [ ] Stworzyć Footer
-* [ ] Stworzyć stronę główną
-* [ ] Zrobić responsywny design
+* [x] Utworzyć projekt React
+* [x] Stworzyć strukturę strony
+* [x] Stworzyć Header
+* [x] Stworzyć Footer
+* [x] Stworzyć stronę główną
+* [x] Zrobić responsywny design
 
 ## 💱 Kalkulator wymiany
 
-* [ ] Stworzyć `Kalkulator wymiany`
+* [x] Stworzyć `Kalkulator wymiany`
 * [ ] Dodać wybór waluty
 * [ ] Dodać pole do wpisania kwoty
 * [ ] Dodać przycisk zamiany walut
