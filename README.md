@@ -3,7 +3,7 @@
 
 ## Podstawy
 
-* [ ] Utworzyć projekt React
+* [x ] Utworzyć projekt React
 * [ ] Stworzyć strukturę strony
 * [ ] Stworzyć Header
 * [ ] Stworzyć Footer
