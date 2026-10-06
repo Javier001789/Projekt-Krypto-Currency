@@ -1,57 +1,16 @@
-# Projekt-Krypto-Currency
+# React + Vite
 
-## Podstawy
+This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
 
-* [ ] Utworzyć projekt React
-* [ ] Stworzyć strukturę strony
-* [ ] Stworzyć Header
-* [ ] Stworzyć Footer
-* [ ] Stworzyć stronę główną
-* [ ] Zrobić responsywny design
+Currently, two official plugins are available:
 
-## 💱 Kalkulator wymiany
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
 
-* [ ] Stworzyć `Kalkulator wymiany`
-* [ ] Dodać wybór waluty
-* [ ] Dodać pole do wpisania kwoty
-* [ ] Dodać przycisk zamiany walut
-* [ ] Podłączyć API kursów walut
-* [ ] Pobierać aktualne kursy przez API
-* [ ] Zrobić automatyczne przeliczanie kwoty
-* [ ] Dodać prowizję kantoru
-* [ ] Wyświetlać końcową kwotę
-* [ ] Dodać obsługę błędów API
+## React Compiler
 
-## 💰 Kursy
+The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
 
-* [ ] Stworzyć sekcję z aktualnymi kursami
-* [ ] Dodać BTC
-* [ ] Dodać ETH
-* [ ] Dodać USDT
-* [ ] Dodać SOL
-* [ ] Zrobić automatyczną aktualizację kursów
+## Expanding the Oxlint configuration
 
-## 🖱️ Interakcje
-
-* [ ] Zrobić działający przycisk `Wymień`
-* [ ] Zrobić przycisk `Sprawdź kurs`
-* [ ] Zrobić przełączanie walut
-* [ ] Stworzyć okno modalne
-* [ ] Dodać powiadomienia
-
-## 📄 Strony
-
-* [ ] Home
-* [ ] Kalkulator
-* [ ] Kursy
-* [ ] O nas
-* [ ] Kontakt
-
-## ✨ Finalizacja
-
-* [ ] Sprawdzić wszystkie przyciski
-* [ ] Sprawdzić kalkulator
-* [ ] Sprawdzić API
-* [ ] Sprawdzić wersję mobilną
-* [ ] Naprawić błędy
-* [ ] Opublikować stronę
+If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
